@@ -8,7 +8,7 @@ class AboutPage extends StatelessWidget
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: GetMainAppBar(context),
-      body: Text('About Page'),
+      body: Text('Made by Owais Akhtar'),
     );
   }
   

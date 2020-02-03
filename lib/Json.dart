@@ -36,6 +36,10 @@ WeatherModel ParseWeather(String data)
     wObject.temperature = main['temp'];
     wObject.weatherTitle = item['weather'][0]['main'];
     wObject.weatherDescription = item['weather'][0]['description'];
+<<<<<<< Updated upstream
+=======
+    wObject.time = DateTime.parse(item['dt_txt']);
+>>>>>>> Stashed changes
     //add icon
 
     wModel.weatherObjects.add(wObject);

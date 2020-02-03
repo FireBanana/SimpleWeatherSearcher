@@ -1,3 +1,8 @@
+<<<<<<< Updated upstream
+=======
+import 'dart:core';
+
+>>>>>>> Stashed changes
 class WeatherModel
 {
   String city;
@@ -11,4 +16,8 @@ class WeatherObject
   num temperatureMin, temperatureMax;
   int humidity;
   String weatherTitle, weatherDescription;
+<<<<<<< Updated upstream
+=======
+  DateTime time;
+>>>>>>> Stashed changes
 }
