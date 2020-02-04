@@ -2,10 +2,10 @@ import 'package:flutter/cupertino.dart';
 import 'package:http/http.dart' as http;
 
 var _placesURL = "https://maps.googleapis.com/maps/api/place/autocomplete/json?input=";
-var _placesURLSecond = "&key=AIzaSyB6wGhhqbwLE7SRokUyx_EKW_SqX1r4jGU";
+var _placesURLSecond = "&key=<ADD PLACES KEY HERE>>";
 
 var _weatherURL = "http://api.openweathermap.org/data/2.5/forecast?q=";
-var _weahterURLSecond = ",us&mode=json&units=metric&APPID=f715c12690836a20574ac87280084005";
+var _weahterURLSecond = ",us&mode=json&units=metric&APPID=<ADD APP ID HERE>>";
 
 Future<String> GetData(String city) async 
 {
