@@ -24,6 +24,6 @@ samples, guidance on mobile development, and a full API reference.
 
 ## ScreenShots
 
-https://i.imgur.com/WBhlEZd.png
-https://i.imgur.com/EPD5ayD.png
-https://i.imgur.com/Wot8OLU.png
+![alt text](https://i.imgur.com/WBhlEZd.png)
+![alt text](https://i.imgur.com/EPD5ayD.png)
+![alt text](https://i.imgur.com/Wot8OLU.png)
