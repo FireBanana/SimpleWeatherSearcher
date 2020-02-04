@@ -24,4 +24,6 @@ samples, guidance on mobile development, and a full API reference.
 
 ## ScreenShots
 
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/Ubo1dj1"><a href="//imgur.com/a/Ubo1dj1"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+https://i.imgur.com/WBhlEZd.png
+https://i.imgur.com/EPD5ayD.png
+https://i.imgur.com/Wot8OLU.png
