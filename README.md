@@ -1,10 +1,8 @@
-# weather_app
+# Simple Weather Searcher
 
-A new Flutter project.
+A Flutter project that allows you to search for a city quickly through the Google Places API and get its weather forecast for 5 days using OpenWeatherMap.
 
 ## Getting Started
-
-This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
 
@@ -14,3 +12,16 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+**To get started with the project:**
+- Clone the code
+- Add your Places API key and your OpenWeatherMap App Key in HttpClient.dart
+- You're good to go
+
+## Current Issues
+
+- UI is not responsive to screen rotations
+
+## ScreenShots
+
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/Ubo1dj1"><a href="//imgur.com/a/Ubo1dj1"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
